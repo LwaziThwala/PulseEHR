@@ -1,0 +1,11 @@
+Ntombi Kubheka, 2000-12-30, Female, 12 Imagine Street, 0110001111, ntombikubheka@gmail.com, None, None
+Thabo Dlamini, 1995-06-15, Male, 45 Freedom Avenue, 0823456789, thabodlamini@gmail.com, Asthma, Ventolin
+Ayanda Mkhize, 1988-09-21, Female, 22 Hope Road, 0791112233, ayandamkhize@yahoo.com, Hypertension, Amlodipine
+Sibusiso Nkosi, 1999-03-10, Male, 9 Sunset Boulevard, 0734445566, sibusisonkosi@outlook.com, Diabetes, Metformin
+Zanele Khumalo, 2002-11-05, Female, 17 Greenway Crescent, 0849988776, zanelekhumalo@gmail.com, None, None
+Kabelo Mokoena, 1978-01-12, Male, 81 Riverside Lane, 0726677889, kabelomokoena@icloud.com, High cholesterol, Atorvastatin
+Nomsa Ngcobo, 1993-07-25, Female, 33 Sunrise Drive, 0834455667, nomsangcobo@gmail.com, Anxiety, Lexapro
+Bongani Ndlovu, 1985-02-02, Male, 14 Park View, 0822233445, bonganindlovu@yahoo.com, Arthritis, Ibuprofen
+Lerato Molefe, 2001-10-18, Female, 55 Silver Street, 0811122334, leratomolefe@gmail.com, None, None
+Sipho Zuma, 1997-04-30, Male, 6 Ocean Way, 0845566778, siphonzuma@gmail.com, Migraines, Paracetamol
+ 
